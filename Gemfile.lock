@@ -205,7 +205,12 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 5.0)
-  jekyll-theme-chirpy (~> 7.4, >= 7.4.1)
+  jekyll-archives
+  jekyll-include-cache
+  jekyll-paginate
+  jekyll-seo-tag
+  jekyll-sitemap
+  jekyll-theme-chirpy (= 7.4.1)
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.2.0)
